@@ -1,0 +1,24 @@
+# Carpetas de build
+/build
+/target
+/.gradle
+/.idea
+.gradle/
+
+# Archivos de entorno / sensibles
+.env
+*.iml
+
+# Archivos de control de versiones
+.git
+.gitignore
+
+# Archivos del sistema / editor
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Cache de herramientas
+**/__pycache__/
+**/*.class
