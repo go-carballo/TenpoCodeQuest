@@ -84,7 +84,7 @@ Dentro del repositorio encontrarás una carpeta `collection/` con una colección
 La imagen del servicio se encuentra disponible públicamente:
 
 ```bash
-docker pull go-carballo/tenpo:latest
+docker pull alejocarballo/tenpo:latest
 ```
 
 ---
