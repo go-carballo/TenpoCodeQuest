@@ -3,7 +3,7 @@
 
 ## 🧩 Descripción del Desafío
 
-El objetivo de este proyecto es construir una API REST utilizando **Spring Boot** (Java 17+) que exponga un servicio para calcular una suma con incremento porcentual, obteniendo dicho porcentaje desde un servicio externo simulado.
+El objetivo de este proyecto es construir una API REST utilizando **Spring Boot** (Java 21) que exponga un servicio para calcular una suma con incremento porcentual, obteniendo dicho porcentaje desde un servicio externo simulado.
 
 La lógica básica consiste en recibir dos números, sumarlos y aplicarles un incremento porcentual. Por ejemplo:  
 **Entrada:** `5` y `5`, **porcentaje recibido:** `10` → **Resultado:** `(5 + 5) + 10% = 11.0`
@@ -30,9 +30,9 @@ La lógica básica consiste en recibir dos números, sumarlos y aplicarles un in
 
 ## 🧱 Stack Tecnológico
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
-- **Gradle 8.4**
+- **Gradle 8.13**
 - **WebFlux**
 - **PostgreSQL**
 - **Caffeine (cache)**
