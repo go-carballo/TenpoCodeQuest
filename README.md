@@ -1,5 +1,5 @@
 
-# 🚀 Tenpo Code Challenge
+# 🚀 TenpoCalculator Code Challenge
 
 ## 🧩 Descripción del Desafío
 
